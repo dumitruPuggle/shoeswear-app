@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Română",
+        "description": "Pentru a selecta limba, faceți click aici.",
+        "key": "ro_MD"
+    },
+    {
+        "name": "Русский",
+        "description": "Чтобы выбрать язык, щелкните здесь.",
+        "key": "ru"
+    }
+]

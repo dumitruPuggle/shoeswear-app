@@ -1,0 +1,57 @@
+{
+    "left": [
+        {
+            "name": "@lang:search",
+            "href": "/search",
+            "iconName": "IoSearchOutline"
+        },
+        {
+            "name": "@lang:categories",
+            "href": "/categories",
+            "iconName": "IoAppsOutline"
+        }
+    ],
+    "right": [
+        {
+            "name": "@lang:cart",
+            "href": "/basket",
+            "iconName": "IoCartOutline"
+        },
+        {
+            "name": "@lang:profile",
+            "href": "/profile",
+            "iconName": "IoPersonOutline"
+        }
+    ],
+    "mobile": [
+        {
+            "name": "Categorii",
+            "href": "/categories",
+            "icon": "IoAppsOutline"
+        },
+        {
+            "name": "Căutare",
+            "href": "/search",
+            "icon": "IoSearchOutline"
+        },
+        {
+            "name": "Coș",
+            "href": "/cart",
+            "icon": "IoCartOutline"
+        },
+        {
+            "name": "Profil",
+            "href": "/profile",
+            "icon": "IoPersonCircleSharp"
+        }
+    ],
+    "other": {
+        "main": "/",
+        "signIn": "/auth",
+        "signUp": "/create-new-account",
+        "privacyPolicy": "/privacy-policy",
+        "selectRegion": "/select-region",
+        "selectLanguage": "/select-language",
+        "ipAPIEndpoint": "http://ip-api.com/json/?fields=61439"
+    }
+}

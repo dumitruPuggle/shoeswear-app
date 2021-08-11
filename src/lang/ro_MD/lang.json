@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "search": "Căutare",
+        "categories": "Categorii",
+        "cart": "Coș",
+        "profile": "Profil",
+        "cookiePolicyTitle": "Despre cookies",
+        "cookiePolicyDesc": "Folosim cookie-uri sau tehnologii similare, așa cum este descris în Notificarea privind cookie-urile, pentru a vă oferi o experiență de utilizare mai bună și promoții relevante. Dacă faceți clic pe „Permiteți toate cookie-urile”, sunteți de acord să primiți toate cookie-urile de pe site. Dacă faceți clic pe „Nu permiteți” sau continuați să utilizați site-ul făcând clic pe orice link sau buton din afara acestei notificări, vor fi utilizate doar cookie-uri de bază.",
+        "doNotAccept": "Nu accept",
+        "acceptAll": "Accept totul",
+        "select-language": "Selectați-vă limba",
+        "logInTitle": "Bine ați revenit!",
+        "signUpTitle": "Bine ați sosit!",
+        "name": "Nume",
+        "surname": "Prenume",
+        "age": "Vârsta",
+        "email": "Poșta electronică",
+        "phone": "Număr de telefon",
+        "address": "Adresă",
+        "password": "Parolă",
+        "connect": "Conectare",
+        "createAccount": "Creați contul",
+        "confidentialNote": "Despre cum gestionăm datele dumneavoastră puteți vizualiza următorul link de mai jos.",
+        "confidentialPolicy": "Politica de confidențialitate",
+        "dontHaveAnAccount": "Nu am încă un cont",
+        "haveAlreadyAnAccount": "Am deja un cont existent"
+    }
+}
