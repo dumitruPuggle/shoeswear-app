@@ -23,6 +23,7 @@
     "react-i18next": "^11.11.4",
     "react-responsive": "^9.0.0-beta.3",
     "react-responsive-carousel": "^3.2.20",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-slick": "^0.28.1",
     "style-it": "^2.1.4",
